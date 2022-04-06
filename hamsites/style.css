@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background-image: url(img/background.jpg);
+    background-size: 100%;
+    margin: 0;
+    height: auto;
+    font-weight: bold;
+}
+
+img {
+    width: 30%;
+    padding: 30px;
+}
+
+.hampic {
+    color: #fff;
+    text-align: right;
+    border: 1px 2px 3px 5px #000;
+}
+
+.menu {
+    color: #000;
+    border: 1px 2px 5px 10px#000;
+}
+
+.text {
+    text-align: center;
+    color: #fff;
+}
